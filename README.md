@@ -1,0 +1,2 @@
+# equip_search_for_hoshino
+HoshinoBot的装备查询插件，输入装备名可查询包含对应装备掉落的所有图
